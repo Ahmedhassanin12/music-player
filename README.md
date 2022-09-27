@@ -1,5 +1,19 @@
 # Project Lyrics
 
+## LYRICS
+- Is music player App created with React js 
+- Redux toolkit for state management and fetch API
+- Tailwind css for styling App
+
+## demo 
+- https://ahmed-lyriks.netlify.app/
+
+## VIWE
+![1](https://user-images.githubusercontent.com/89364017/192604832-d95ae5ee-68e6-4800-a725-ad119125d3f0.png)
+![2](https://user-images.githubusercontent.com/89364017/192604853-b504ee9a-f36f-4795-a983-59a2775e40b5.png)
+![3](https://user-images.githubusercontent.com/89364017/192604877-e8713720-8a8a-4f1f-b3d2-5f18bd1e6326.png)
+![4](https://user-images.githubusercontent.com/89364017/192604902-92319f03-cc89-468b-879e-23c2448b8763.png)
+
 Develop an elegant React.js Music Application. 
 
 Check out the complete project requirements [here](https://docs.google.com/document/d/13PeFwRlPEhMw_HPyrIrInvQuKaVWnpNmcv-y3NA208s/edit?usp=sharing)
